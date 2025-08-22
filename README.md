@@ -21,3 +21,6 @@ public class Main {
     }
 }
 ```
+
+# Output:
+<img width="1660" height="890" alt="Screenshot From 2025-08-23 02-34-41" src="https://github.com/user-attachments/assets/a2268936-4b20-47e0-b1b0-5a3af770c268" />
