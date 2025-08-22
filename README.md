@@ -30,4 +30,20 @@ Use ```new Logger("MAIN", "format")``` instant of ```new Logger("MAIN")```
 # Formating example: ```"[{hh}:{mm}:{ss}] [{thread}]: {log}"```
 # Color tags:
 - &black
-
+- &red
+- &green
+- &yellow
+- &blue
+- &purple
+- &cyan
+- &gray
+- &reset
+# String tags
+- {h}
+- {m}
+- {s}
+- {hh}
+- {mm}
+- {ss}
+- {thread}
+- {log}
