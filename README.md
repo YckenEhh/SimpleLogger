@@ -81,13 +81,13 @@ new Logger("MAIN");
 
 | Tag       | Meaning                     |
 |-----------|-----------------------------|
-| `{h}`     | Hour (1–12)                 |
-| `{m}`     | Minute (1–59)               |
-| `{s}`     | Second (1–59)               |
-| `{hh}`    | Hour (00–23)                |
-| `{mm}`    | Minute (00–59)              |
-| `{ss}`    | Second (00–59)              |
-| `{thread}`| Current thread name         |
+| `{h}`     | Hour (0)                    |
+| `{m}`     | Minute (0)                  |
+| `{s}`     | Second (0)                  |
+| `{hh}`    | Hour (00)                   |
+| `{mm}`    | Minute (00)                 |
+| `{ss}`    | Second (00)                 |
+| `{thread}`| Current logger name         |
 | `{log}`   | Log message text            |
 
 ---
