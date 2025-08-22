@@ -27,4 +27,7 @@ public class Main {
 
 # Custom formating
 Use ```new Logger("MAIN", "format")``` instant of ```new Logger("MAIN")```
-## Formating example: ```"[{hh}:{mm}:{ss}] [{thread}]: {log}"```
+# Formating example: ```"[{hh}:{mm}:{ss}] [{thread}]: {log}"```
+# Color tags:
+- &black
+
